@@ -1,0 +1,6 @@
+we will do web scraping by using beautifulSoap.
+for this we need to inspect element and all
+for any site to see which links we cant access for that just after that site write robot.txt
+u need to install:
+pip install requests
+pip install beautifulsoup4
