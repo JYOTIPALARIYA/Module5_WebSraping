@@ -4,3 +4,7 @@ for any site to see which links we cant access for that just after that site wri
 u need to install:
 pip install requests
 pip install beautifulsoup4
+
+
+
+.............................................................
